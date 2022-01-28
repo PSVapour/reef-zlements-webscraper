@@ -35,8 +35,6 @@ async function wait(ms) {
         let usersEmailAddress = await askQuestion("Enter Email Address: ");
         let usersPassword = await askQuestion("Enter Password: ");
 
-        console.log(usersEmailAddress, usersPassword);
-
         // Initialise the browser and goto the web page
         const browser = await puppeteer.launch();
         const page = await browser.newPage();

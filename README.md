@@ -13,4 +13,5 @@ How to run on windows
 - run command *npm install*
 - run command *node index.js*
 - follow the prompts
+- once finished, the output file will be saved as output.csv in the same directory
 
