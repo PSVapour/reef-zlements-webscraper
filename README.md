@@ -3,7 +3,7 @@
 Pre-requisites
 
 - Download and install the latest version of Node JS 
-- Download and unzip this repository to your machine
+- Clone or download this repository to your machine. Unzip if downloaded.
 
 How to run 
 
