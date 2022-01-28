@@ -5,10 +5,10 @@ Pre-requisites
 - Download and install the latest version of Node JS 
 - Download and unzip this repository to your machine
 
-How to run on windows
+How to run 
 
-- Open cmd
-- change directory to the location of the unpacked folder
+- Open a terminal window (cmd /powershell on windows) (terminal on mac / linux)
+- change directory to the location of the unpacked folder *cd ~/some/path/to/the/folder*
 - run command *npm install -g npm*
 - run command *npm install*
 - run command *node index.js*
